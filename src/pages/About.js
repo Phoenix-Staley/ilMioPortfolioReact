@@ -16,24 +16,25 @@ export default function Home() {
   return (
     <div>
       <div className="hero" alt="The word developer on a dark background surrounded by yellow angle brackets">
-        <img src={selfie} alt="Phoenix Staley in a white cardigan, wearing square glasses, with the sunset in the background" class="pineapple-shirt" />
-        <h2 class="hero-subtitle" style={styles.heroSubtitle}>Keeping Current</h2>
+        <img src={selfie} alt="Phoenix Staley in a white cardigan, wearing square glasses, with the sunset in the background" className="pineapple-shirt" />
+        <div> </div> {/* This div helps utilize the flex-between property */}
       </div>
 
-      <main class="flex-container main-section" id="about-me">
-            <aside class="sidebar flex-container">
-                <h2 class="section-heading">About Me</h2>
+      <main className="flex-container main-section" id="about-me">
+            <aside className="sidebar flex-container">
+                <h2 className="section-heading">Su di Me</h2>
             </aside>
-            <div class="content">
+            <div className="content">
                 <p>
-                    Welcome to my website! I'm a nonbinary developer currently enrolled in a full-stack JavaScript bootcamp through the
-                    University of Washington.
-                    I've been fascinated about computers and the internet since I was a kid. I began programming video games on Roblox in
-                    middle school. Ever since then my drive to continue learning and developing programs has never ceased.
+                  Benvenuti al mio sito web! Io sono un sviluppatore di JavaScript, con un certificazione della Università di Washington.
+                  Sto lavorando per una laurea in Computer Science, ma sto cercando per una posizione full-stack mentre finisco la laurea.
+                  Avevo fatto videogiochi per divertimento, quando ero giovane. Dopo di quello, il mio desiderio per imparare
+                  e continuare sviluppare non è mai cessato.
                 </p>
                 <br />
                 <p>
-                  On the portfolio page linked above you can view projects I have developed, either with a team or by myself.
+                  Con il link al mio portoglio sopra questo, lei può vedere progetti che ho sviluppato,
+                  con una squadra o senza una.
                 </p>
             </div>
         </main>

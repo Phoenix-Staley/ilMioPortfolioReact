@@ -20,7 +20,7 @@ const styles = {
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <header id="navbar" style={styles.staticHeader}>
-        <h2 className="header main-header">Phoenix Staley - Web Developer</h2>
+        <h2 className="header main-header">Phoenix Staley - Developer di JavaScript</h2>
         <h2 className="header short-header">Phoenix Staley</h2>
         <nav className="text-right navigation">
             <ul className="nav nav-tabs">
@@ -32,7 +32,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                     // The ternary operators for the following <li> elements do the same thing
                     className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
                     >
-                    About
+                    Su Di Me
                     </a>
                 </li>
                 <li className="nav-item">
@@ -41,11 +41,11 @@ function NavTabs({ currentPage, handlePageChange }) {
                     onClick={() => handlePageChange('Portfolio')}
                     className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
                     >
-                    Portfolio
+                    Progetti
                     </a>
                 </li>
                 <li>
-                    <a href={resume}>Resume</a>
+                    <a href={resume}>Curriculum Vitae</a>
                 </li>
             </ul>
         </nav>
