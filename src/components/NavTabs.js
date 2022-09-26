@@ -20,7 +20,7 @@ const styles = {
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <header id="navbar" style={styles.staticHeader}>
-        <h2 className="header main-header">Phoenix Staley - Developer di JavaScript</h2>
+        <h2 className="header main-header">Phoenix Staley - Sviluppatore di JavaScript</h2>
         <h2 className="header short-header">Phoenix Staley</h2>
         <nav className="text-right navigation">
             <ul className="nav nav-tabs">
@@ -46,6 +46,9 @@ function NavTabs({ currentPage, handlePageChange }) {
                 </li>
                 <li>
                     <a href={resume}>Curriculum Vitae</a>
+                </li>
+                <li>
+                    <a href="https://phoenix-staley.github.io/myReactPortfolio/">English Version</a>
                 </li>
             </ul>
         </nav>
