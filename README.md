@@ -3,6 +3,8 @@
 
 # Il Portfoglio React di Phoenix Staley
 
+(English version [here](https://github.com/Phoenix-Staley/myReactPortfolio))
+
 ## Table of Contents
 
 - [Descrizione](#Descrizione)
