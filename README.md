@@ -1,33 +1,34 @@
-### Apache-2.0 License
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+### Apache-2.0 Licenza
+ [![Licenza](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Title
+# Il Portfoglio React di Phoenix Staley
 
 ## Table of Contents
 
-- [Description](#Description)
+- [Descrizione](#Descrizione)
 
-- [Technologies](#Technologies)
+- [Tecnologie](#Tecnologie)
 
-- [Images](#Examples)
+- [Essempi](#Essempi)
 
-- [Credits](#Credits)
+- [Crediti](#Crediti)
 
-## Description
-This is a professional portfolio for Phoenix Staley. This portfolio is based on a previous portfolio written using basic HTML and CSS instead of ReactJS. You can view the Github repository for [the original portfolio](https://phoenix-staley.github.io/phoenix-staley-portfolio/).
+## descrizione
+Questo è un portfoglio professionale per Phoenix Staley. Questo portfoglio è basato un altro portfoglio, scritto con solo HTML e CSS. Ma questo app usa ReactJS.
 
-View the site [here](https://phoenix-staley.github.io/myReactPortfolio/)!
+Lei può esplorare il sito [qui](https://phoenix-staley.github.io/ilMioPortfoglioReact/)!
 
-## Technologies
-This portfolio is written using ReactJS. It uses React's state variables to update the page dynamically without the need for any vanilla JavaScript. This single page application creates the feeling of multiple "pages" using these state variables to keep track of which "page" the user is on and loading the corresponding components accordingly.
+## Tecnologie
+Il sito usa ReactJs e il suo 'state variables' per aggiornare dinamicamente la pagina, senza bisogno di JavaScript normale.
+Questa app a pagina singola sembra come ha molte pagine usando queste 'state variables' per tracciare in quale 'pagina' si trova l'utente e carica le componenti corrispondenti.
 
-## Images
+## Essempi
 
-Homepage:
-![Homepage with a bio about Phoenix Staley](./images/homepage.png)
+Pagina principale:
+![Pagina principale con un biografia su di Phoenix Staley](./images/homepage.png)
 
-Projects:
-![Various projects displayed in a grid](./images/projects.png)
+Progetti:
+![Molti progetti in a griglia](./images/projects.png)
 
-## Credits
-This website was created by Phoenix Staley, a full-stack (MERN) web developer currently studying computer science through Washington State University.
+## Crediti
+Questo sito è stato creato da Phoenix Staley, un svilupatorre full-stack (MERN), che studia Computer Science alla Università del Stato Washington.
