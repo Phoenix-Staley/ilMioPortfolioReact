@@ -5,7 +5,7 @@
 
 (English version [here](https://github.com/Phoenix-Staley/myReactPortfolio))
 
-## Table of Contents
+## Sommario
 
 - [Descrizione](#Descrizione)
 
