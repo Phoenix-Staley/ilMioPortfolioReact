@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../assets/phoenixDevResume_2022.pdf";
+import resume from "../assets/phoenixCurriculumVitae_2Octobre.pdf";
 
 const styles = {
     staticHeader: {
