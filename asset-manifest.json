@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/myReactPortfolio/static/css/main.681d3a88.css",
-    "main.js": "/myReactPortfolio/static/js/main.b4ba9be9.js",
-    "static/js/787.5e5fe948.chunk.js": "/myReactPortfolio/static/js/787.5e5fe948.chunk.js",
-    "static/media/knickKnacksScreenshot.png": "/myReactPortfolio/static/media/knickKnacksScreenshot.6b89494a43341348271b.png",
-    "static/media/logo.png": "/myReactPortfolio/static/media/logo.203e97b6712ce53161b0.png",
-    "static/media/sunsetBackgroundSquare.jpg": "/myReactPortfolio/static/media/sunsetBackgroundSquare.1180d8e7cbce841671c7.jpg",
-    "static/media/Developer_Tag.jpg": "/myReactPortfolio/static/media/Developer_Tag.c3f08aac8a4a4e8edd9a.jpg",
-    "static/media/timelessTechBlogScreenshot.png": "/myReactPortfolio/static/media/timelessTechBlogScreenshot.aeefa8929a19ff79eee1.png",
-    "static/media/weatherAppScreenshot.png": "/myReactPortfolio/static/media/weatherAppScreenshot.0017a6e5daee9d9c4485.png",
-    "static/media/bitcoinTrackerScreenshot.png": "/myReactPortfolio/static/media/bitcoinTrackerScreenshot.3822612482e81eceeb44.png",
-    "static/media/myrecipesScreenshot.png": "/myReactPortfolio/static/media/myrecipesScreenshot.9d2e4e879d60ed607be3.png",
-    "static/media/phoenixDevResume_2022.pdf": "/myReactPortfolio/static/media/phoenixDevResume_2022.5ed330a089013e445070.pdf",
-    "index.html": "/myReactPortfolio/index.html",
-    "main.681d3a88.css.map": "/myReactPortfolio/static/css/main.681d3a88.css.map",
-    "main.b4ba9be9.js.map": "/myReactPortfolio/static/js/main.b4ba9be9.js.map",
-    "787.5e5fe948.chunk.js.map": "/myReactPortfolio/static/js/787.5e5fe948.chunk.js.map"
+    "main.css": "/ilMioPortfolioReact/static/css/main.43866ba4.css",
+    "main.js": "/ilMioPortfolioReact/static/js/main.8f158562.js",
+    "static/js/787.5e5fe948.chunk.js": "/ilMioPortfolioReact/static/js/787.5e5fe948.chunk.js",
+    "static/media/knickKnacksScreenshot.png": "/ilMioPortfolioReact/static/media/knickKnacksScreenshot.6b89494a43341348271b.png",
+    "static/media/logo.png": "/ilMioPortfolioReact/static/media/logo.203e97b6712ce53161b0.png",
+    "static/media/sunsetBackgroundSquare.jpg": "/ilMioPortfolioReact/static/media/sunsetBackgroundSquare.1180d8e7cbce841671c7.jpg",
+    "static/media/Developer_Tag.jpg": "/ilMioPortfolioReact/static/media/Developer_Tag.c3f08aac8a4a4e8edd9a.jpg",
+    "static/media/timelessTechBlogScreenshot.png": "/ilMioPortfolioReact/static/media/timelessTechBlogScreenshot.aeefa8929a19ff79eee1.png",
+    "static/media/weatherAppScreenshot.png": "/ilMioPortfolioReact/static/media/weatherAppScreenshot.0017a6e5daee9d9c4485.png",
+    "static/media/bitcoinTrackerScreenshot.png": "/ilMioPortfolioReact/static/media/bitcoinTrackerScreenshot.3822612482e81eceeb44.png",
+    "static/media/phoenixCurriculumVitae_2Octobre.pdf": "/ilMioPortfolioReact/static/media/phoenixCurriculumVitae_2Octobre.9db446487e8e88ef7438.pdf",
+    "static/media/myrecipesScreenshot.png": "/ilMioPortfolioReact/static/media/myrecipesScreenshot.9d2e4e879d60ed607be3.png",
+    "index.html": "/ilMioPortfolioReact/index.html",
+    "main.43866ba4.css.map": "/ilMioPortfolioReact/static/css/main.43866ba4.css.map",
+    "main.8f158562.js.map": "/ilMioPortfolioReact/static/js/main.8f158562.js.map",
+    "787.5e5fe948.chunk.js.map": "/ilMioPortfolioReact/static/js/787.5e5fe948.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.681d3a88.css",
-    "static/js/main.b4ba9be9.js"
+    "static/css/main.43866ba4.css",
+    "static/js/main.8f158562.js"
   ]
 }
