@@ -18,7 +18,7 @@
 ## Descrizione
 Questo è un portfoglio professionale per Phoenix Staley. Questo portfoglio è basato un altro portfoglio, scritto con solo HTML e CSS. Ma questo app usa ReactJS.
 
-Lei può esplorare il sito [qui](https://phoenix-staley.github.io/ilMioPortfoglioReact/)!
+Lei può esplorare il sito [qui](https://phoenix-staley.github.io/ilMioPortfolioReact/)!
 
 ## Tecnologie
 Il sito usa ReactJs e il suo 'state variables' per aggiornare dinamicamente la pagina, senza bisogno di JavaScript normale.
