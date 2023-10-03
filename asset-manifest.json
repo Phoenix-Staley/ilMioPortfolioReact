@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ilMioPortfolioReact/static/css/main.43866ba4.css",
-    "main.js": "/ilMioPortfolioReact/static/js/main.2cbeed1e.js",
+    "main.js": "/ilMioPortfolioReact/static/js/main.af3eea84.js",
     "static/js/787.5e5fe948.chunk.js": "/ilMioPortfolioReact/static/js/787.5e5fe948.chunk.js",
     "static/media/knickKnacksScreenshot.png": "/ilMioPortfolioReact/static/media/knickKnacksScreenshot.6b89494a43341348271b.png",
     "static/media/logo.png": "/ilMioPortfolioReact/static/media/logo.203e97b6712ce53161b0.png",
@@ -14,11 +14,11 @@
     "static/media/myrecipesScreenshot.png": "/ilMioPortfolioReact/static/media/myrecipesScreenshot.9d2e4e879d60ed607be3.png",
     "index.html": "/ilMioPortfolioReact/index.html",
     "main.43866ba4.css.map": "/ilMioPortfolioReact/static/css/main.43866ba4.css.map",
-    "main.2cbeed1e.js.map": "/ilMioPortfolioReact/static/js/main.2cbeed1e.js.map",
+    "main.af3eea84.js.map": "/ilMioPortfolioReact/static/js/main.af3eea84.js.map",
     "787.5e5fe948.chunk.js.map": "/ilMioPortfolioReact/static/js/787.5e5fe948.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43866ba4.css",
-    "static/js/main.2cbeed1e.js"
+    "static/js/main.af3eea84.js"
   ]
 }
