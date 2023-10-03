@@ -1,7 +1,7 @@
 ### Apache-2.0 Licenza
  [![Licenza](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# Il Portfoglio React di Phoenix Staley
+# Il Portfolio React di Phoenix Staley
 
 (English version [here](https://github.com/Phoenix-Staley/myReactPortfolio))
 
