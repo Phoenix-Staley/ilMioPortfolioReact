@@ -47,9 +47,6 @@ function NavTabs({ currentPage, handlePageChange }) {
                 <li>
                     <a href={resume}>Curriculum Vitae</a>
                 </li>
-                <li>
-                    <a href="https://phoenix-staley.github.io/myReactPortfolio/">English Version</a>
-                </li>
             </ul>
         </nav>
     </header>

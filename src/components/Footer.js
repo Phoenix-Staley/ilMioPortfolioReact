@@ -14,6 +14,9 @@ export default function Home() {
         <a href="https://www.linkedin.com/in/phoenix-staley-b17672211/"><FontAwesomeIcon className="icon-link" icon={faLinkedin} /></a>
         <a href="mailto:PhoenixStaley_Developer@outlook.com"><FontAwesomeIcon className="icon-link" icon={faEnvelope} /></a>
       </div>
+      <li>
+        <a href="https://phoenix-staley.github.io/myReactPortfolio/">English Version</a>
+      </li>
     </footer>
   );
 }

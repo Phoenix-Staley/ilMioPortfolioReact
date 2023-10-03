@@ -26,14 +26,14 @@ export default function Home() {
             </aside>
             <div className="content">
                 <p>
-                  Benvenuti al mio sito web! Io sono un sviluppatore di JavaScript, con un certificazione della Università di Washington.
-                  Sto lavorando per una laurea in Computer Science, ma sto cercando per una posizione full-stack mentre finisco la laurea.
+                  Benvenuti al mio sito web! Sono una sviluppatrice di JavaScript, con un certificazione della Università di Washington.
+                  Sto studiando per una laurea in Computer Science, ma sto cercando per un lavoro mentre finisco la laurea, oppure per una estate.
                   Avevo fatto videogiochi per divertimento, quando ero giovane. Dopo di quello, il mio desiderio per imparare
                   e continuare sviluppare non è mai cessato.
                 </p>
                 <br />
                 <p>
-                  Con il link al mio portoglio sopra questo, lei può vedere progetti che ho sviluppato,
+                  Con il link al mio portolio sopra questo, Lei può vedere progetti che ho sviluppato,
                   con una squadra o senza una.
                 </p>
             </div>
